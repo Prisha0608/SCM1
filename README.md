@@ -15,4 +15,4 @@ Download and install the Quizikpedia app (or access the web version). Choose you
 
 Select a quiz from the available topics. Choose between Timed Mode (for a challenge) or Relaxed Mode (no time limit). Read each question carefully and select the correct answer. Get instant feedback after each attempt. Complete all questions to view your final score. 3. Tracking Your Progress
 
-Check your score and track improvement over time. Compete with others via the leaderboard (if enabled).
+Check your score and track improvement over time. Compete with others via the leaderboard (if enabled).....
